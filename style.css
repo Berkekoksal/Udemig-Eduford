@@ -269,8 +269,22 @@ footer h4{
     margin-top:20px;
     font-weight: 600;
 }
-footer p{
-  padding: 0 6rem 25px;
+footer .footer-subtitle {
+  color: #777;
+  padding: 0 15rem 25px;
+}
+footer .social-media{
+  margin: 20px 0 20px;
+}
+footer .social-media .bi{
+  color: #f44336;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+footer .copyright p{
+  color: #777;
+  margin-top: 20px ;
 }
 footer .copyright span{
     color: #f44336;
